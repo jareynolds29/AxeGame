@@ -1,7 +1,7 @@
 
 # Axe Game
 
-Within this project I learned how to use Raylib and make a game.
+Within this project I learned how to use Raylib and make a where if the Circle hits the Axe (rectangle) the game ends.
 
 ## Lessons Learned in this Project
 - How to include both Internal and External libraries.
